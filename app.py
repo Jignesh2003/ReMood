@@ -8,7 +8,7 @@ import pickle
 import webbrowser
 from imutils.video import WebcamVideoStream
 
-YOUTUBE_API_KEY= 'AIzaSyAZko-KXF6usQ5yTZHDWxfDrkxz6gyiwBg'
+YOUTUBE_API_KEY= 'YOUR YOUTUBE API KEY'
 
 app = Flask(__name__)
 webcam=cv2.VideoCapture(0)
